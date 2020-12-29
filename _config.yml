@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: GLZV
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Сайт jekyll
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://helicopter.su/wp-content/uploads/2020/12/zaicev-best.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
